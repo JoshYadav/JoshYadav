@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://readme-svg-text.vercel.app/api?text=Hello!%20I'm%20Josh&font=Pacifico&size=52&color=ff5c8a" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&pause=1000&color=FF5C8A&center=true&vCenter=true&width=500&lines=Hello!+I'm+Josh" />
 </p>
 
 <p align="center">
-  <img src="https://readme-svg-text.vercel.app/api?text=I%20learn%20tech%20step%20by%20step%20:)&font=Fira%20Code&size=22&color=9b5de5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=500&lines=Exploring+Cybersecurity+%3A)" />
 </p>
 
-<h1 align="center">Hello! I'm Josh 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=420&lines=Engineering+Student;Learning+Java;Exploring+Cybersecurity" />
-</p>
 
 ---
 
