@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=52&pause=999999&color=FF5C8A&center=true&vCenter=true&width=520&height=90&lines=Hello!+I'm+Josh" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hello!%20I'm%20Josh&fontColor=FF5C8A&fontSize=52&fontAlignY=55&height=90" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=999999&color=8B5CF6&center=true&vCenter=true&width=520&lines=Exploring+Cybersecurity+%3A)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Exploring+Cybersecurity+%3A);Learning+Java;Building+Strong+Foundations" />
 </p>
 
 
