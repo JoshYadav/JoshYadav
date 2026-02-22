@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&pause=1000&color=FF5C8A&center=true&vCenter=true&width=500&lines=Hello!+I'm+Josh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=52&pause=999999&color=FF5C8A&center=true&vCenter=true&width=520&height=90&lines=Hello!+I'm+Josh" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=500&lines=Exploring+Cybersecurity+%3A)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=999999&color=8B5CF6&center=true&vCenter=true&width=520&lines=Exploring+Cybersecurity+%3A)" />
 </p>
 
 
