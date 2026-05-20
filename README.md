@@ -33,8 +33,8 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-SOC%20Focused-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   <img src="https://img.shields.io/badge/Threat%20Detection-Log%20Analysis-1e293b?style=for-the-badge&logo=securityscorecard&logoColor=00FFB3" />
   <img src="https://img.shields.io/badge/Linux-Networking-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-1f2937?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Scripting-1f2937?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
 </p>
