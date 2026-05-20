@@ -22,6 +22,16 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,java" />
 </p>
 
+---
+
+# 🔍 Currently Exploring
+- Threat detection & log analysis
+- Linux system security
+- Networking fundamentals
+- SIEM workflows & monitoring
+
+---
+
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-SOC%20Focused-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   <img src="https://img.shields.io/badge/Threat%20Detection-Log%20Analysis-1e293b?style=for-the-badge&logo=securityscorecard&logoColor=00FFB3" />
