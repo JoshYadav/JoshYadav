@@ -10,16 +10,16 @@
 
 # 👨‍💻 About Me
 - 🎓 Engineering student from India  
-- 🛡️ Focused on **Cybersecurity** & security fundamentals  
-- 📊 Learning **SIEM concepts**, log analysis & threat detection  
+- 🛡️ Focused on **Cybersecurity**, threat detection & security fundamentals  
+- 📊 Exploring **SIEM workflows**, log analysis & threat detection  
 - 🐧 Exploring **Linux, Networking & Bash scripting**  
-- 🚀 Building hands-on cybersecurity projects & labs  
+- 🔍 Building hands-on labs & cybersecurity projects  
 
 ---
 
 # 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,java" />
 </p>
 
 <p>
