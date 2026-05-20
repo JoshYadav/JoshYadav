@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hey!%20I'm%20Josh&fontColor=00FFB3&fontSize=52&fontAlignY=55&height=90" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=220&section=header&text=Hey!%20I'm%20Josh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Learning%20Cybersecurity%20•%20Building%20Strong%20Security%20Foundations&descAlignY=65&descSize=20" />
 </p>
 
 <p align="center">
